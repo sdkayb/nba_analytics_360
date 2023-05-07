@@ -1,5 +1,5 @@
 # Nba Analytics 360
-Game Analytics 360 : A Comprehensive End-to-End Solution From Raw Data to Insights with Dynamic ML Model Maintenance.
+NBA Analytics 360 : A Comprehensive End-to-End Solution From Raw Data to Insights with Dynamic ML Model Maintenance.
 
 Welcome to **Nba Analytics 360**!
 
